@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chat/Chat.iml" filepath="$PROJECT_DIR$/Chat/Chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HTMLEditor/HTMLEditor.iml" filepath="$PROJECT_DIR$/HTMLEditor/HTMLEditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaRushBigTask.iml" filepath="$PROJECT_DIR$/JavaRushBigTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVC/MVC.iml" filepath="$PROJECT_DIR$/MVC/MVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refactoring/Refactoring.iml" filepath="$PROJECT_DIR$/Refactoring/Refactoring.iml" />
+    </modules>
+  </component>
+</project>
